@@ -1,6 +1,6 @@
 Package: DocumentDB
 Title: DocumentDB Interface
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: person("Steph", "Locke", email = "stephanie.g.locke@gmail.com", role = c("aut", "cre"))
 Description: Provides an R interface for use with DocumentDB, the Microsoft
     NoSQL database.
